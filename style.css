@@ -1,39 +1,39 @@
 @media (max-width: 768px) {
 
     header {
-        padding: 40px 10px;
+        padding: 45px 15px;
     }
 
     h1 {
-        font-size: 28px;
+        font-size: 32px;
     }
 
     h2 {
-        font-size: 22px;
+        font-size: 26px;
     }
 
     nav {
-        padding: 10px;
+        padding: 15px;
     }
 
     nav a {
         display: inline-block;
-        margin: 8px;
-        font-size: 14px;
+        margin: 12px;
+        font-size: 18px;
     }
 
     section {
-        margin: 10px;
-        padding: 25px 15px;
+        margin: 16px;
+        padding: 30px 15px;
     }
 
     ul li {
-        width: 100%;
+        width: 110%;
     }
 
     .profile-pic {
-        width: 120px;
-        height: 120px;
+        width: 130px;
+        height: 130px;
     }
 }
 
@@ -41,7 +41,7 @@ nav {
     position: sticky;
     top: 0;
     background: #020617;
-    padding: 15px;
+    padding: 18px;
     text-align: end;
     z-index: 1000;
 }
@@ -84,9 +84,9 @@ ul {
 
 ul li {
     background: #1e293b;
-    margin: 10px auto;
-    padding: 10px;
-    width: 200px;
+    margin: 15px auto;
+    padding: 15px;
+    width: 220px;
     border-radius: 5px;
 }
 
@@ -175,3 +175,4 @@ footer a:hover {
 .footer-links, .socials {
     margin-top: 10px;
 }
+
